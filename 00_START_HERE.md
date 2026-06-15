@@ -1,4 +1,4 @@
-# 👋 START HERE - Welcome to OpenSees Learning Resources!
+# 👋 START HERE - Welcome to OpenSeesPy Tutorials!
 
 Welcome! You're about to dive into OpenSees, one of the most powerful tools for structural engineering simulation. This document will guide you through the repository and help you get started.
 
@@ -224,7 +224,7 @@ pip install openseespy opsvis matplotlib numpy jupyter
 ### **Opening an Example**
 ```bash
 # Navigate to repository
-cd "OpenSees Learning"
+cd "OpenSeesPy-Tutorials"
 
 # Start Jupyter
 jupyter notebook
@@ -328,7 +328,7 @@ jupyter notebook
 
 ## ✨ Key Utilities (Folder 11)
 
-Located in: `11 Opensees Building Automate Helper Function`
+Located in: `11 N-Story N-Bay Building & Analysis Automate - RCC, Steel Section`
 
 ### **Python Modules You Can Use:**
 - **modelUnits.py** - Unit conversions
@@ -397,7 +397,7 @@ Before you dive in:
 
 ## 🔗 Important Links
 
-- **Repository:** https://github.com/Ashim-Paudel/OpenSees_Learning
+- **Repository:** https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 - **OpenSees Official:** https://opensees.berkeley.edu/
 - **OpenSeesPy Docs:** https://openseespydoc.readthedocs.io/
 - **This File:** You're reading it!

@@ -10,10 +10,10 @@ Thank you for using the OpenSees Learning Resources! If you use code, examples, 
 
 ## 📌 Quick Citation Reference
 
-**Repository:** OpenSees Learning Resources  
+**Repository:** OpenSeesPy Tutorials  
 **Author:** Ashim Paudel  
 **Year:** 2024  
-**URL:** https://github.com/Ashim-Paudel/OpenSees_Learning  
+**URL:** https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials  
 **License:** MIT
 
 ---
@@ -22,53 +22,53 @@ Thank you for using the OpenSees Learning Resources! If you use code, examples, 
 
 ### **APA Format** (Recommended for academic papers)
 ```
-Paudel, A. (2024). OpenSees learning resources: Python examples for structural dynamics 
+Paudel, A. (2024). OpenSeesPy Tutorials: Python examples for structural dynamics 
 and earthquake engineering [Computer software]. GitHub. 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 ### **BibTeX Format** (For LaTeX documents)
 ```bibtex
-@misc{paudel2024openseeslearning,
+@misc{paudel2024openseespytutorials,
   author = {Paudel, Ashim},
-  title = {OpenSees Learning Resources: {P}ython Examples for Structural Dynamics and Earthquake Engineering},
+  title = {OpenSeesPy Tutorials: {P}ython Examples for Structural Dynamics and Earthquake Engineering},
   year = {2024},
   howpublished = {GitHub Repository},
-  url = {https://github.com/Ashim-Paudel/OpenSees_Learning}
+  url = {https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials}
 }
 ```
 
 ### **Chicago Manual of Style Format**
 ```
-Paudel, Ashim. "OpenSees Learning Resources: Python Examples for Structural Dynamics 
+Paudel, Ashim. "OpenSeesPy Tutorials: Python Examples for Structural Dynamics 
 and Earthquake Engineering." GitHub Repository. Accessed [date accessed]. 
-https://github.com/Ashim-Paudel/OpenSees_Learning.
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials.
 ```
 
 ### **MLA Format**
 ```
-Paudel, Ashim. OpenSees Learning Resources: Python Examples for Structural Dynamics 
-and Earthquake Engineering. GitHub, 2024, https://github.com/Ashim-Paudel/OpenSees_Learning.
+Paudel, Ashim. OpenSeesPy Tutorials: Python Examples for Structural Dynamics 
+and Earthquake Engineering. GitHub, 2024, https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials.
 ```
 
 ### **Harvard Format**
 ```
-Paudel, A., 2024. OpenSees learning resources: Python examples for structural dynamics 
+Paudel, A., 2024. OpenSeesPy Tutorials: Python examples for structural dynamics 
 and earthquake engineering. [online] Available at: 
-https://github.com/Ashim-Paudel/OpenSees_Learning [Accessed date].
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials [Accessed date].
 ```
 
 ### **IEEE Format**
 ```
-[1] A. Paudel, "OpenSees learning resources: Python examples for structural dynamics 
+[1] A. Paudel, "OpenSeesPy Tutorials: Python examples for structural dynamics 
 and earthquake engineering," GitHub, 2024. [Online]. Available: 
-https://github.com/Ashim-Paudel/OpenSees_Learning. [Accessed: date].
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials. [Accessed: date].
 ```
 
 ### **Simple Text Citation**
 ```
-Paudel, A. (2024). OpenSees Learning Resources. Retrieved from 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+Paudel, A. (2024). OpenSeesPy Tutorials. Retrieved from 
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 ---
@@ -83,9 +83,9 @@ Specify the module in your citation:
 
 **APA:**
 ```
-Paudel, A. (2024). Fiber section of RCC section [Jupyter Notebook]. In OpenSees learning 
-resources: Python examples for structural dynamics and earthquake engineering. GitHub. 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+Paudel, A. (2024). Fiber section of RCC section [Jupyter Notebook]. In OpenSeesPy 
+Tutorials: Python examples for structural dynamics and earthquake engineering. GitHub. 
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 **BibTeX:**
@@ -94,9 +94,9 @@ https://github.com/Ashim-Paudel/OpenSees_Learning
   author = {Paudel, Ashim},
   title = {Fiber Section of {RCC} Section},
   year = {2024},
-  booktitle = {OpenSees Learning Resources},
+  booktitle = {OpenSeesPy Tutorials},
   howpublished = {GitHub Repository},
-  url = {https://github.com/Ashim-Paudel/OpenSees_Learning}
+  url = {https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials}
 }
 ```
 
@@ -106,13 +106,13 @@ If you adapt or extend code from the helper functions:
 **APA:**
 ```
 Adapted from Paudel (2024), specifically the modelFunctions.py module. Retrieved from 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 **In-text:**
 ```
 "The automated building generation approach follows Paudel (2024), using the getModel() 
-function from OpenSees Learning Resources."
+function from OpenSeesPy Tutorials."
 ```
 
 ### **Using in Thesis/Dissertation**
@@ -120,30 +120,30 @@ Add to references section and cite throughout your document:
 
 **Footnote/Endnote:**
 ```
-Paudel, Ashim. OpenSees Learning Resources: Python Examples for Structural Dynamics 
+Paudel, Ashim. OpenSeesPy Tutorials: Python Examples for Structural Dynamics 
 and Earthquake Engineering. GitHub Repository, 2024. 
-https://github.com/Ashim-Paudel/OpenSees_Learning.
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials.
 ```
 
 ### **Using in Research Paper**
 Include in References section:
 
 ```
-Paudel, A., 2024. OpenSees learning resources: Python examples for structural dynamics 
+Paudel, A., 2024. OpenSeesPy Tutorials: Python examples for structural dynamics 
 and earthquake engineering. GitHub Repository. Available at: 
-https://github.com/Ashim-Paudel/OpenSees_Learning (Accessed [date]).
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials (Accessed [date]).
 ```
 
 ### **Using in Code/Software Project**
 Add a comment in your code:
 
 ```python
-# Based on OpenSees Learning Resources (Paudel, 2024)
-# https://github.com/Ashim-Paudel/OpenSees_Learning
+# Based on OpenSeesPy Tutorials (Paudel, 2024)
+# https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 # Adapted from: [specific module/example]
 
 # Original function reference:
-# Paudel, A. (2024). buildFiberSection.py. OpenSees Learning Resources.
+# Paudel, A. (2024). buildFiberSection.py. OpenSeesPy Tutorials.
 ```
 
 ---

@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: "OpenSees Learning Resources: Python Examples for Structural Dynamics and Earthquake Engineering"
+title: "OpenSeesPy Tutorials: Python Examples for Structural Dynamics and Earthquake Engineering"
 authors:
   - family-names: "Paudel"
     given-names: "Ashim"
 message: "If you use this software, please cite it as below."
 type: software
-repository-code: "https://github.com/Ashim-Paudel/OpenSees_Learning"
+repository-code: "https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials"
 keywords:
   - OpenSees
   - Structural Dynamics
@@ -19,15 +19,15 @@ date-released: 2024-04-01
 version: "1.0.0"
 identifiers:
   - type: url
-    value: "https://github.com/Ashim-Paudel/OpenSees_Learning"
+    value: "https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials"
 
 preferred-citation:
   type: software
   authors:
     - family-names: "Paudel"
       given-names: "Ashim"
-  title: "OpenSees Learning Resources: Python Examples for Structural Dynamics and Earthquake Engineering"
+  title: "OpenSeesPy Tutorials: Python Examples for Structural Dynamics and Earthquake Engineering"
   year: 2024
-  url: "https://github.com/Ashim-Paudel/OpenSees_Learning"
-  repository-code: "https://github.com/Ashim-Paudel/OpenSees_Learning"
+  url: "https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials"
+  repository-code: "https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials"
 

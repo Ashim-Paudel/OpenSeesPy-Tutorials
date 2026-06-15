@@ -1,4 +1,4 @@
-# 🚀 Quick Reference Card - OpenSees Learning Resources
+# 🚀 Quick Reference Card - OpenSeesPy Tutorials
 
 ## 📖 Where to Find What
 
@@ -39,41 +39,41 @@
 
 ### **APA** - For most academic papers
 ```
-Paudel, A. (2024). OpenSees learning resources: Python examples for structural 
+Paudel, A. (2024). OpenSeesPy Tutorials: Python examples for structural 
 dynamics and earthquake engineering [Computer software]. GitHub. 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 ### **BibTeX** - For LaTeX documents
 ```bibtex
-@misc{paudel2024openseeslearning,
+@misc{paudel2024openseespytutorials,
   author = {Paudel, Ashim},
-  title = {OpenSees Learning Resources: {P}ython Examples for Structural 
+  title = {OpenSeesPy Tutorials: {P}ython Examples for Structural 
            Dynamics and Earthquake Engineering},
   year = {2024},
   howpublished = {GitHub Repository},
-  url = {https://github.com/Ashim-Paudel/OpenSees_Learning}
+  url = {https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials}
 }
 ```
 
 ### **Chicago** - Humanities/historical style
 ```
-Paudel, Ashim. "OpenSees Learning Resources: Python Examples for Structural 
+Paudel, Ashim. "OpenSeesPy Tutorials: Python Examples for Structural 
 Dynamics and Earthquake Engineering." GitHub Repository. Accessed [date]. 
-https://github.com/Ashim-Paudel/OpenSees_Learning.
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials.
 ```
 
 ### **Simple Text** - Any format
 ```
-Paudel, A. (2024). OpenSees Learning Resources. Retrieved from 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+Paudel, A. (2024). OpenSeesPy Tutorials. Retrieved from 
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 ---
 
 ## 📋 Helper Functions Quick Guide
 
-### **In Folder: `11 Opensees Building Automate Helper Function`**
+### **In Folder: `11 N-Story N-Bay Building & Analysis Automate - RCC, Steel Section`**
 
 **Module: modelUnits.py**
 - Unit conversions (SI, Imperial, mixed)
@@ -102,7 +102,7 @@ https://github.com/Ashim-Paudel/OpenSees_Learning
 | **Author** | Ashim Paudel |
 | **Year** | 2024 |
 | **License** | MIT |
-| **Repository** | https://github.com/Ashim-Paudel/OpenSees_Learning |
+| **Repository** | https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials |
 | **Language** | Python |
 | **Format** | Jupyter Notebooks + Python scripts |
 | **Main Tool** | OpenSees (openseespy) |
@@ -116,8 +116,8 @@ https://github.com/Ashim-Paudel/OpenSees_Learning
 pip install openseespy opsvis matplotlib numpy jupyter
 
 # Clone repository
-git clone https://github.com/Ashim-Paudel/OpenSees_Learning.git
-cd "OpenSees Learning"
+git clone https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials.git
+cd "OpenSeesPy-Tutorials"
 
 # Open notebooks
 jupyter notebook
@@ -153,13 +153,12 @@ Read CONTRIBUTING.md - follow the process there.
 ## 📝 Files at a Glance
 
 ```
-OpenSees Learning/
+OpenSeesPy-Tutorials/
 ├── README_FULL.md          ← START HERE (main guide)
 ├── LICENSE                 ← Read before using commercially
 ├── CITATION.md             ← How to cite (multiple formats)
 ├── CITATION.cff            ← GitHub automatic citation
 ├── CONTRIBUTING.md         ← How to contribute/improve
-├── SETUP_SUMMARY.md        ← This setup was documented here
 ├── 00-11 Examples/         ← Learning materials
 └── README.md               ← Original brief overview
 ```
@@ -170,7 +169,7 @@ OpenSees Learning/
 
 - **OpenSees Official:** https://opensees.berkeley.edu/
 - **OpenSeesPy Docs:** https://openseespydoc.readthedocs.io/
-- **Repository:** https://github.com/Ashim-Paudel/OpenSees_Learning
+- **Repository:** https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 - **License:** MIT (see LICENSE file)
 
 ---
@@ -228,8 +227,8 @@ Resources for fiber section discretization and ground motion analysis."
 
 **In code:**
 ```python
-# Based on OpenSees Learning Resources (Paudel, 2024)
-# https://github.com/Ashim-Paudel/OpenSees_Learning
+# Based on OpenSeesPy Tutorials (Paudel, 2024)
+# https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 **In thesis/dissertation:**

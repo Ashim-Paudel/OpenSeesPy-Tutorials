@@ -1,4 +1,4 @@
-# OpenSees Learning Resources
+# OpenSeesPy Tutorials
 
 ## Introduction
 
@@ -96,7 +96,7 @@ OpenSees is a powerful, open-source simulation framework for earthquake engineer
    - Demonstrates complete workflow from model creation to seismic response
 
 ### 7. **Helper Functions & Utilities**
-   📁 `11 Opensees Building Automate Helper Function`
+   📁 `11 N-Story N-Bay Building & Analysis Automate - RCC, Steel Section`
    
    **Purpose:** Automate repetitive modeling tasks and reduce code complexity
    
@@ -320,7 +320,7 @@ Found an error or have improvements? This is a learning repository—feedback he
 ## 📋 File Structure
 
 ```
-OpenSees Learning/
+OpenSeesPy-Tutorials/
 ├── 00 A.K Chopra - Structural Dynamics Examples/
 │   ├── Sinusoidal Force to SDOF Model.ipynb
 │   ├── SDOF Response Ground Motion.ipynb
@@ -330,12 +330,12 @@ OpenSees Learning/
 ├── 03 Moment Curvature Analysis/
 ├── 04 Eigen Analysis of 2d framed building/
 ├── 05 Analysis of a 2D Elastic Cantilever Column/
-├── 06 Analysis of a 2D Nonlinear Cantilever Column/
+├── 06 Analysis of a 2D Nonlinear Cantilever Column- Uniaxial Inelastic Section/
 ├── 07 Portal Frame Analysis/
 ├── 08 Monotonic Pushovers/
 ├── 09 Reverse Cyclic Pushover Analysis/
 ├── 10 2 Storey Frame/
-├── 11 Opensees Building Automate Helper Function/
+├── 11 N-Story N-Bay Building & Analysis Automate - RCC, Steel Section/
 │   ├── modelUnits.py         # Unit conversions
 │   ├── modelFunctions.py     # Automation utilities
 │   ├── buildFiberSection.py  # Section builders
@@ -361,40 +361,40 @@ If you use code or examples from this repository in your research, publications,
 
 ### BibTeX
 ```bibtex
-@misc{paudel2024openseeslearning,
-  title={OpenSees Learning Resources: Python Examples for Structural Dynamics and Earthquake Engineering},
+@misc{paudel2024openseespytutorials,
+  title={OpenSeesPy Tutorials: Python Examples for Structural Dynamics and Earthquake Engineering},
   author={Paudel, Ashim},
   year={2024},
   publisher={GitHub},
-  howpublished={\url{https://github.com/Ashim-Paudel/OpenSees_Learning}}
+  howpublished={\url{https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials}}
 }
 ```
 
 ### APA Format
 ```
-Paudel, A. (2024). OpenSees Learning Resources: Python examples for structural dynamics 
+Paudel, A. (2024). OpenSeesPy Tutorials: Python examples for structural dynamics 
 and earthquake engineering [Computer software]. Retrieved from 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 ### Chicago Format
 ```
-Paudel, Ashim. OpenSees Learning Resources: Python Examples for Structural Dynamics 
+Paudel, Ashim. OpenSeesPy Tutorials: Python Examples for Structural Dynamics 
 and Earthquake Engineering. Computer software. Accessed [date]. 
-https://github.com/Ashim-Paudel/OpenSees_Learning.
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials.
 ```
 
 ### Simple Text Citation
 ```
-Paudel, A. (2024). OpenSees Learning Resources. GitHub Repository. 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+Paudel, A. (2024). OpenSeesPy Tutorials. GitHub Repository. 
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 ### For Code Snippets or Functions
 ```
-"Adapted from Paudel (2024) OpenSees Learning Resources, specifically the 
+"Adapted from Paudel (2024) OpenSeesPy Tutorials, specifically the 
 [module/example name]. Retrieved from 
-https://github.com/Ashim-Paudel/OpenSees_Learning"
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials"
 ```
 
 ---

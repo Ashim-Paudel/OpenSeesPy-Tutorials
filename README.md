@@ -1,4 +1,4 @@
-# OpenSees Learning Resources
+# OpenSeesPy Tutorials
 
 Welcome to a comprehensive learning resource for **OpenSees with Python**! 
 
@@ -152,20 +152,20 @@ If you use this repository in research or publications, please cite:
 
 **APA (Recommended for papers):**
 ```
-Paudel, A. (2024). OpenSees learning resources: Python examples for structural 
+Paudel, A. (2024). OpenSeesPy Tutorials: Python examples for structural 
 dynamics and earthquake engineering [Computer software]. GitHub. 
-https://github.com/Ashim-Paudel/OpenSees_Learning
+https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials
 ```
 
 **BibTeX (For LaTeX documents):**
 ```bibtex
-@misc{paudel2024openseeslearning,
+@misc{paudel2024openseespytutorials,
   author = {Paudel, Ashim},
-  title = {OpenSees Learning Resources: Python Examples for Structural 
+  title = {OpenSeesPy Tutorials: Python Examples for Structural 
            Dynamics and Earthquake Engineering},
   year = {2024},
   howpublished = {GitHub Repository},
-  url = {https://github.com/Ashim-Paudel/OpenSees_Learning}
+  url = {https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials}
 }
 ```
 
